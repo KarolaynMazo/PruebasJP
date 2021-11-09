@@ -1,0 +1,16 @@
+.classpath
+.settings
+.idea
+*.iml
+.project
+
+# Ignore build output directory
+build/
+driver/
+bin/
+target/
+src/test/resources/drivers/
+src/main/.project
+.metadata/
+.gradle/
+
